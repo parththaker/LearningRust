@@ -1,0 +1,6 @@
+[package]
+name = "fraction_sign"
+version = "0.1.0"
+authors = ["parththaker"]
+
+[dependencies]
